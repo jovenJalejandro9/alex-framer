@@ -1,0 +1,8 @@
+@font-face{font-family:Inter;src:url(fonts/Inter.ttf);font-weight:100 900}
+@font-face{font-family:"Space Grotesk";src:url(fonts/SpaceGrotesk.ttf);font-weight:300 700}
+:root{
+  --bg:#000000; --surface:#141414; --ink:#ffffff; --muted:#999999;
+  --line:rgba(255,255,255,.10); --accent:#0055ff; --glow:#0099ff;
+  --radius:16px; --button-radius:7px; --content:1100px; --theme:#000000;
+  --grad:linear-gradient(135deg,#9900ff 0%,#0055ff 45%,#ff3366 100%);
+}
